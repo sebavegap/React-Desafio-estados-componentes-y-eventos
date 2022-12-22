@@ -14,7 +14,7 @@ const Formulario = () => {
     e.preventDefault();
 
     //Validación
-    if(contraseña === '25252'){
+    if(contraseña === '252525'){
         setError(true);
         return;
     }
